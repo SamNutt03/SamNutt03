@@ -1,16 +1,29 @@
-## Hi there 👋
+<table>
+  <tr>
+    <td width="20%" valign="top" align="center">
+      <img src="ascii-sam.gif" width="300" height="350" alt="Sam" />
+    </td>
+    <td width="80%" valign="middle" align="left">
+      <pre>
+███████╗     █████╗     ███╗   ███╗             ____________
+██╔════╝    ██╔══██╗    ████╗ ████║            | &gt; _        ‖
+███████╗    ███████║    ██╔████╔██║            |            ‖
+╚════██║    ██╔══██║    ██║╚██╔╝██║            |____________‖
+███████║    ██║  ██║    ██║ ╚═╝ ██║            /⣿⣿⣿⣿⣿⣿⣿⣿//
+╚══════╝    ╚═╝  ╚═╝    ╚═╝     ╚═╝           /⠿⠿⠿⠿⠿⠿⠿⠿//
+⠀                                             ‾‾‾‾‾‾‾‾‾‾‾‾
+⠀
 
-<!--
-**SamNutt03/SamNutt03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+███╗   ██╗ ██╗   ██╗ ████████╗ ████████╗  █████╗  ██╗     ██╗
+████╗  ██║ ██║   ██║ ╚══██╔══╝ ╚══██╔══╝ ██╔══██╗ ██║     ██║
+██╔██╗ ██║ ██║   ██║    ██║       ██║    ███████║ ██║     ██║
+██║╚██╗██║ ██║   ██║    ██║       ██║    ██╔══██║ ██║     ██║
+██║ ╚████║ ╚██████╔╝    ██║       ██║    ██║  ██║ ███████╗ ███████╗
+╚═╝  ╚═══╝  ╚═════╝     ╚═╝       ╚═╝    ╚═╝  ╚═╝ ╚══════╝ ╚══════╝
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+█▄█ ▄▀▄ █▄▀ █▀▀         █▀▀ █▀█ █▀█ █         █▀ ▀█▀ █ █ █▀▀ █▀▀
+█ █ █▀█ █ █ ██▄         █▄▄ █▄█ █▄█ █▄▄       ▄█  █  █▄█ █▀  █▀   ▄
+      </pre>
+    </td>
+  </tr>
+</table>
