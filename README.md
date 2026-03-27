@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="20%" valign="middle" align="center">
-      <img src="ascii-sam.gif" width="300" height="350" alt="Sam" />
+      <img src="ascii-sam.gif" width="280" height="330" alt="Sam" />
     </td>
     <td width="80%" valign="middle" align="left">
       <pre>
